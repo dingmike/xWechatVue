@@ -1,8 +1,8 @@
 {
-  "name": "wechat",
+  "name": "wechatWeb",
   "version": "1.0.0",
-  "description": "lanma",
-  "author": "tanlei <tl8_30@163.com>",
+  "description": "admin",
+  "author": "admin <zdjsdf@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
